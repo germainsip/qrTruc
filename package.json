@@ -1,0 +1,16 @@
+{
+  "name": "qrTruc",
+  "version": "1.0.0",
+  "description": "une application de création de qrcode",
+  "main": "index.js",
+  "author": "Germain SIPIERE",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "electron": "^16.0.7",
+    "qr-code-styling": "^1.6.0-rc.1"
+  }
+}
